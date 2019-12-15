@@ -4,6 +4,8 @@
 
 ### Description
 
+- 📦 [Docker Hub registry](https://hub.docker.com/r/panzelva/mikrotik-exporter)
+
 A Prometheus Exporter for Mikrotik devices that can be configured to collect metrics
 from a single device or multiple devices. Single device monitoring can be configured
 all on the command line. Multiple devices require a configuration file. A user will
